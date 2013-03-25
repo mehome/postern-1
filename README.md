@@ -31,4 +31,5 @@ Postern provides a variety of abstractions for use by client applications. These
 ### Planned Abstractions
 
 * **PKCS** - The agent may  provide a PKCS enpoint to be used by vendor solutions that support that standard.
+* **Environment Variables** - While using environment variables can be somewhat problematic to implement, postern may support the ability to inject keys into the environment.
 
