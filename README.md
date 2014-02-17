@@ -1,5 +1,7 @@
 # Postern
 
+This repository is a placeholder for future work. A simple proof of concept was created to test this idea, but as it is not suitable for production, the code was removed to a separate repository. There is not currently an agent for Barbican, but this repository remains open in case development turns that direction. If you have any questions, hop on #openstack-barbican on Freenode.
+
 An agent allowing secure access to encryption materials from the [Barbican](https://github.com/cloudkeep/barbican) key management API. This project is supported by [Rackspace](http://www.rackspace.com).
 
 Additional documentation can be found on the [Github Wiki](https://github.com/cloudkeep/postern/wiki). For questions, comments or concerns, hop on the [mailing list](https://groups.google.com/forum/#!forum/cloudkeep) and let us know what you think.
